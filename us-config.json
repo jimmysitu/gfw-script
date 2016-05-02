@@ -1,0 +1,8 @@
+{
+    "server":"US1.ISS.TF",
+    "server_port":443,
+    "local_port":1082,
+    "password":"",
+    "timeout":600,
+    "method":"aes-256-cfb"
+}

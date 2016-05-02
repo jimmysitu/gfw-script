@@ -1,0 +1,8 @@
+{
+    "server":"HK2.ISS.TF",
+    "server_port":8989,
+    "local_port":1082,
+    "password":"",
+    "timeout":600,
+    "method":"aes-256-cfb"
+}

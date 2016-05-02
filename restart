@@ -1,0 +1,7 @@
+#!/bin/sh
+
+/etc/init.d/firewall restart
+/etc/init.d/dnsmasq restart
+/etc/init.d/shadowsocks stop
+/etc/init.d/shadowsocks start
+
