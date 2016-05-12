@@ -2,7 +2,7 @@
     "server":"JP3.ISS.TF",
     "server_port":443,
     "local_port":1082,
-    "password":"",
+    "password":"00075097",
     "timeout":600,
     "method":"aes-256-cfb"
 }

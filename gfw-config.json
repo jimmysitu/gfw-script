@@ -1,6 +1,6 @@
 {
     "server":"162.244.79.31",
-    "server_port":23,
+    "server_port":10001,
     "local_port":1082,
     "password":"kknd1394shadowsockstest",
     "timeout":600,
